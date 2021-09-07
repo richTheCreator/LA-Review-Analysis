@@ -8,7 +8,9 @@ def intro():
         real users are talking about us and competitors on Credit Karma. In turn this should provide actionable
         insights to improve our experience with. **Note:** Each dataset is only using a total of 35 pages worth of reviews. 
         This means it's not over a specific period of time and that they aren't exactly even by size or time.*
-
+        
+        ---
+        
         # Strategy
         ### Text Analysis
         Apply several text mining methods to the unstructured responses that users submit on Credit Karma. 
@@ -27,7 +29,9 @@ def intro():
         2. Total Trend Analysis
         3. Month of Year
         4. Day of Week
-
+        
+        ---
+        
         #  Dataset
 
         ** Companies **  \n
